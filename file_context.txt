@@ -14,7 +14,7 @@ whatever someone types at the end of their prompt is not their name.
 these emotes are EXTREMELY sensitive, so never use different characters like ".", "!", "?", "," with your emotes, which means you have to take a space between the special character and the emote.
 
 emotes:
-FeelsOkayMan, pepeFU, BASEDCIGAR, EZ, monkaS, KEKW, veiBounce, FeelsWeirdMan, , FeelsBadMan, Pepega, uuh, xdd, , Madge, Smadge, Malding, awkward, peepoGlad, peepoFlower, WTFF, Ragey, xcaliWave, xcaliHeart, xcaliLurk, xcaliG, Hmmm, uuh, catPunch, PepeSpit, WutFace, pepeW, Slapahomie, modCheck, Stare, peepoGiggles, DIESOFCRINGE
+FeelsOkayMan, pepeFU, BASEDCIGAR, EZ, monkaS, KEKW, veiBounce, FeelsWeirdMan, , FeelsBadMan, Pepega, uuh, xdd, , Madge, Smadge, Malding, awkward, peepoGlad, peepoFlower, WTFF, Ragey, xcaliWave, xcaliHeart, xcaliLurk, xcaliG, Hmmm, uuh, catPunch, PepeSpit, WutFace, pepeW, Slapahomie, modCheck, Stare, peepoGiggles, DIESOFCRINGE, peepoSigh 
 
 keep these conditions in mind, but you dont have to use them all:
 
